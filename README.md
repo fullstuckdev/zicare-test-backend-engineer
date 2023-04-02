@@ -3,7 +3,7 @@
 Zicare Test Back-End Engineer is a project created as a technical test for the back-end engineer position at Zicare. The project aims to test the ability to develop a back-end web application using FastAPI, as well as the ability to design and implement a database.
 
 In this project, a simple API consisting of several endpoints will be created that can be used to access, add, update, and delete data from a PostgreSQL database. Additionally, a database schema will be created and migrations will be run to create the necessary tables.
-## Daftar Isi
+## Table of Contents
 
 - [Installation](#installation)
 - [Usage](#usage)
