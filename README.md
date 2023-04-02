@@ -12,7 +12,7 @@ In this project, a simple API consisting of several endpoints will be created th
 
 ## Installation
 
-### Persyaratan
+### Requirements
 
 - Python 3.10+
 - pip
