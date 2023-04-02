@@ -1,0 +1,28 @@
+# Python files
+*.pyc
+__pycache__/
+*.pyo
+*.pyd
+*.pyw
+*.pyz
+
+# Python virtual environment
+venv/
+env/
+.venv/
+.venv3/
+.venv37/
+.vscode/
+.idea/
+.DS_Store
+
+# Dependency directories
+env/
+lib/
+libs/
+venv/
+venv2/
+venv3/
+venv37/
+env37/
+__pycache__/
